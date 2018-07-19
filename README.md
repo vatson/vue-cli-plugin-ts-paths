@@ -10,6 +10,9 @@ You are tired of duplicating code when you need to add a new path alias (`alias`
 
 Now you can add it only to tsconfig.json and no longer worry about the rest 
 
+
+## Getting Started
+
 ### A new project
 
 If yon don't have a project, you can create TypeScript project using vue cli:
