@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-ts-paths",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Configure path aliases only once and in the right place (tsconfig.json)",
   "homepage": "https://github.com/vatson/vue-cli-plugin-ts-paths",
   "repository": {
