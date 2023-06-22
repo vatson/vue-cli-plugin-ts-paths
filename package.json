@@ -18,6 +18,6 @@
   "author": "Vadim Tiukov <dev.vatson@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "tsconfig-paths-webpack-plugin": "^3.2.0"
+    "tsconfig-paths-webpack-plugin": "^4.0.0"
   }
 }
